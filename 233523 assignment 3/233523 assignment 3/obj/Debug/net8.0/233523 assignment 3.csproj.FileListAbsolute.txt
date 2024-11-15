@@ -1,0 +1,14 @@
+C:\Users\Abdul Wasay Sial\Desktop\233523 assignment 3\233523 assignment 3\bin\Debug\net8.0\233523 assignment 3.exe
+C:\Users\Abdul Wasay Sial\Desktop\233523 assignment 3\233523 assignment 3\bin\Debug\net8.0\233523 assignment 3.deps.json
+C:\Users\Abdul Wasay Sial\Desktop\233523 assignment 3\233523 assignment 3\bin\Debug\net8.0\233523 assignment 3.runtimeconfig.json
+C:\Users\Abdul Wasay Sial\Desktop\233523 assignment 3\233523 assignment 3\bin\Debug\net8.0\233523 assignment 3.dll
+C:\Users\Abdul Wasay Sial\Desktop\233523 assignment 3\233523 assignment 3\bin\Debug\net8.0\233523 assignment 3.pdb
+C:\Users\Abdul Wasay Sial\Desktop\233523 assignment 3\233523 assignment 3\obj\Debug\net8.0\233523 assignment 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul Wasay Sial\Desktop\233523 assignment 3\233523 assignment 3\obj\Debug\net8.0\233523 assignment 3.AssemblyInfoInputs.cache
+C:\Users\Abdul Wasay Sial\Desktop\233523 assignment 3\233523 assignment 3\obj\Debug\net8.0\233523 assignment 3.AssemblyInfo.cs
+C:\Users\Abdul Wasay Sial\Desktop\233523 assignment 3\233523 assignment 3\obj\Debug\net8.0\233523 assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Wasay Sial\Desktop\233523 assignment 3\233523 assignment 3\obj\Debug\net8.0\233523 assignment 3.dll
+C:\Users\Abdul Wasay Sial\Desktop\233523 assignment 3\233523 assignment 3\obj\Debug\net8.0\refint\233523 assignment 3.dll
+C:\Users\Abdul Wasay Sial\Desktop\233523 assignment 3\233523 assignment 3\obj\Debug\net8.0\233523 assignment 3.pdb
+C:\Users\Abdul Wasay Sial\Desktop\233523 assignment 3\233523 assignment 3\obj\Debug\net8.0\233523 assignment 3.genruntimeconfig.cache
+C:\Users\Abdul Wasay Sial\Desktop\233523 assignment 3\233523 assignment 3\obj\Debug\net8.0\ref\233523 assignment 3.dll
